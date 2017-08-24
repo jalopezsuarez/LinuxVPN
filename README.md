@@ -1,6 +1,4 @@
-ROUTER VPN
-
-### ROUTER
+### ROUTER VPN LINUX DEBIAN
 
 Bannanian 16.04 (Debian 8/Jessie) (released 2016-04-23 / 158 MB) 
 Linux bananapi 3.4.111-bananian
